@@ -1,0 +1,2 @@
+# EconomicStudy
+exercise scope notes
